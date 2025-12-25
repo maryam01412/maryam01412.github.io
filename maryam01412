@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>الأخصائية النفسية مريم الكسر</title>
+
+<!-- Google Analytics -->
+<!-- ضع كود GA4 هنا لاحقًا -->
+
+<!-- Snapchat Pixel -->
+<!-- ضع كود Snap Pixel هنا لاحقًا -->
+
+<style>
+body{
+font-family:Tahoma, Arial;
+background:#f7f7f7;
+margin:0;
+}
+.container{
+max-width:720px;
+margin:auto;
+padding:20px;
+}
+.card{
+background:#fff;
+border-radius:14px;
+padding:22px;
+box-shadow:0 10px 25px rgba(0,0,0,.08);
+}
+h1{margin-top:0}
+.btn{
+display:block;
+background:#5f7cff;
+color:#fff;
+text-align:center;
+padding:14px;
+border-radius:10px;
+text-decoration:none;
+font-weight:bold;
+margin-top:12px;
+}
+.note{color:#666;font-size:14px}
+</style>
+</head>
+
+<body>
+<div class="container">
+  <div class="card">
+    <h1>الأخصائية النفسية مريم الكسر</h1>
+    <p>جلسات علاج معرفي سلوكي لمساعدتك على فهم نفسك، تهدئة القلق، وبناء توازن نفسي أفضل.</p>
+
+    <a class="btn" href="#" target="_blank">احجز موعدك الآن</a>
+
+    <p class="note">
+    بعد الإرسال سيتم التواصل معك لتأكيد الموعد.
+    </p>
+  </div>
+</div>
+</body>
+</html>
